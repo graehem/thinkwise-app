@@ -1,0 +1,44 @@
+# This would be a zip file containing all project files
+# Since I can't create actual zip files, I'll provide the file contents below
+
+## All Project Files Listed:
+
+### Root Files:
+- package.json (provided above)
+- README.md (provided above)
+- .gitignore (provided above)
+- LICENSE (provided above)
+- index.html (from project)
+- vite.config.ts (from project)
+- tailwind.config.js (from project)
+- tsconfig.json (from project)
+- tsconfig.app.json (from project)
+- tsconfig.node.json (from project)
+- eslint.config.js (from project)
+- postcss.config.js (from project)
+
+### src/ folder:
+- App.tsx (from project)
+- main.tsx (from project)
+- index.css (from project)
+
+### src/components/:
+- AdminPanel.tsx (from project)
+- Dashboard.tsx (from project)
+- Header.tsx (from project)
+- Lesson.tsx (from project)
+- LoginPage.tsx (from project)
+- RegisterPage.tsx (from project)
+- Profile.tsx (from project)
+- LearningPath.tsx (from project)
+- ReviewerCreator.tsx (from project)
+- ReviewerList.tsx (from project)
+- DownloadCenter.tsx (from project)
+
+### src/contexts/:
+- AuthContext.tsx (from project)
+- UserContext.tsx (from project)
+- AdminContext.tsx (from project)
+
+### src/utils/:
+- downloadUtils.ts (from project)
